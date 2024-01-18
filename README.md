@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Navdeep R
+- 👀 I’m interested in AI development...
+- 🌱 I’m currently learning computer vision..
+- 📫 How to reach me - linkedin -www.linkedin.com/in/navdeep-navdeep
