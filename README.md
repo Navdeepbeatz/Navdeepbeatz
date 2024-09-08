@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Navdeep R
-- 👀 I’m interested in AI development...
-- 🌱 I’m currently learning computer vision..
+- 👀 I’m Fullstack dev
+- 🌱 I’m currently working on sass Product
 - 📫 How to reach me - linkedin -www.linkedin.com/in/navdeep-navdeep
